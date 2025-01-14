@@ -1,0 +1,109 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "name": "1. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "1_task/1_task.dart"
+    },{
+        "name": "2. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "2_task/2_task.dart"
+    },{
+        "name": "3. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "3_task/3_task.dart"
+    },{
+        "name": "4. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "4_task/4_task.dart"
+    },{
+        "name": "5. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "5_task/5_task.dart"
+    },{
+        "name": "6. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "6_task/6_task.dart"
+    },{
+        "name": "7. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "7_task/7_task.dart"
+    },{
+        "name": "8. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "8_task/8_task.dart"
+    },{
+        "name": "9. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "9_task/9_task.dart"
+    },{
+        "name": "10. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "10_task/10_task.dart"
+    },{
+        "name": "11. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "11_task/11_task.dart"
+    },{
+        "name": "12. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "12_task/12_task.dart"
+    },{
+        "name": "13. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "13_task/13_task.dart"
+    },{
+        "name": "14. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "14_task/14_task.dart"
+    },{
+        "name": "15. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "15_task/15_task.dart"
+    },{
+        "name": "16. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "16_task/16_task.dart"
+    },{
+        "name": "17. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "17_task/17_task.dart"
+    },{
+        "name": "18. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "18_task/18_task.dart"
+    },{
+        "name": "19. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "19_task/19_task.dart"
+    },{
+        "name": "20. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "20_task/20_task.dart"
+    }
+    ]
+}
