@@ -114,6 +114,46 @@
         "type": "dart",
         "request": "launch",
         "program": "22_task/22_task.dart"
+    },{
+        "name": "23. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "23_task/23_task.dart"
+    },{
+        "name": "24. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "24_task/24_task.dart"
+    },{
+        "name": "25. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "25_task/25_task.dart"
+    },{
+        "name": "26. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "26_task/26_task.dart"
+    },{
+        "name": "27. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "27_task/27_task.dart"
+    },{
+        "name": "28. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "28_task/28_task.dart"
+    },{
+        "name": "29. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "29_task/29_task.dart"
+    },{
+        "name": "30. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "30_task/30_task.dart"
     }
     ]
 }
