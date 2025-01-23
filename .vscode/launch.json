@@ -154,6 +154,21 @@
         "type": "dart",
         "request": "launch",
         "program": "30_task/30_task.dart"
+    },{
+        "name": "31. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "31_task/31_task.dart"
+    },{
+        "name": "32. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "32_task/32_task.dart"
+    },{
+        "name": "33. Task",
+        "type": "dart",
+        "request": "launch",
+        "program": "33_task/33_task.dart"
     }
     ]
 }
